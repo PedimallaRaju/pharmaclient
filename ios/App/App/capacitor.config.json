@@ -1,0 +1,6 @@
+{
+	"appId": "www.pharmapp.com",
+	"appName": "pharmacy",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
