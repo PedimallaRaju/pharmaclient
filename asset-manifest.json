@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pharmaclient/static/css/main.00d516af.css",
+    "main.js": "/pharmaclient/static/js/main.824222bd.js",
+    "index.html": "/pharmaclient/index.html",
+    "main.00d516af.css.map": "/pharmaclient/static/css/main.00d516af.css.map",
+    "main.824222bd.js.map": "/pharmaclient/static/js/main.824222bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00d516af.css",
+    "static/js/main.824222bd.js"
+  ]
+}
