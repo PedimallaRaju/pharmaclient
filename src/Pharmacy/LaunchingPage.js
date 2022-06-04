@@ -1,9 +1,14 @@
 import React, { Component } from "react";
+import { Link } from "react-router-dom";
 import { ToastContainer, toast } from "react-toastify";
 import Loader from "./Loader";
 import Services from "./Services";
+import HomePage from "./HomePage";
 
 export class LaunchingPage extends Component {
+  constructor(props) {
+    super(props);
+  }
   state = {
     loading: false,
   };
